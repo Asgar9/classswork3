@@ -1,0 +1,14 @@
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.exe
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.deps.json
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.runtimeconfig.json
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.runtimeconfig.dev.json
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.dll
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\bin\Debug\netcoreapp3.1\finder.pdb
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.csproj.AssemblyReference.cache
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.AssemblyInfoInputs.cache
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.AssemblyInfo.cs
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.csproj.CoreCompileInputs.cache
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.dll
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.pdb
+C:\Users\asgaryas\Desktop\project4\tapam\finder\finder\obj\Debug\netcoreapp3.1\finder.genruntimeconfig.cache
